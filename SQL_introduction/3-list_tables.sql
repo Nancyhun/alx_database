@@ -1,1 +1,3 @@
+# List tables
+
 SHOW TABLES;
