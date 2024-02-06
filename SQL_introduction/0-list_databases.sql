@@ -1,2 +1,2 @@
-# list databases in sql
+-- list databases in sql
 SHOW DATABASES;
